@@ -1,0 +1,84 @@
+"""
+-------------------------------------------------------
+Lab  Testing
+-------------------------------------------------------
+Author:  Sameer Abdullah	
+ID:      169065039
+Email:   abdu5039@mylaurier.ca
+Version: 2024-01-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: True
+Calories:   120
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Name: orgin
+Origin (Enter Number)
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 8
+Vegetarian? (Y/N): N
+Calories: 300
+Name:       orgin
+Origin:     American
+Vegetarian: False
+Calories:   300
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Vegetarian Foods:
+Vegetable Alicha
+Spanakopita
+Chamuco
+Natto
+Diet Free-Range Gluten-free Water
+Spicy Vegetable Moo Shu
+Vegetables with Cashew Nuts
+Greek Salad
+Shortbread 
+Pavlova
+Hokey Pokey Ice Cream
+Chip Butty
+Crepe
+Spring Rolls

@@ -1,0 +1,105 @@
+"""
+------------------------------------------------------------------------
+Testing
+------------------------------------------------------------------------
+Author:  Sameer Abdullah
+ID:      169065039
+Email:   abdu5039@mylaurier.ca
+__updated__ = "2024-03-12"
+------------------------------------------------------------------------
+"""
+------------------------------------------------------------------------
+t01
+------------------------------------------------------------------------
+The BST is valid?: 
+True
+
+The BST is balanced?: 
+True
+
+The BSTs are balanced?: 
+<bound method BST.is_balanced of <BST_linked.BST object at 0x000001EC51E2B110>>
+
+Minimum value in BST: 
+0
+
+Number of nodes with 0 children: 
+4
+
+Number of nodes with 1 child: 
+0
+
+Number of nodes with 2 children: 
+3
+
+Values in order from bst: 
+[0, 1, 2, 3, 4, 5, 6]
+
+Values in preorder from bst: 
+[3, 1, 0, 2, 5, 4, 6]
+
+Values in postorder from bst: 
+[0, 2, 1, 4, 6, 5, 3]
+
+Values in levelorder from bst: 
+[3, 1, 5, 0, 2, 4, 6]
+
+Removed Value: 
+3
+
+Printing Updated BST: 
+2
+1
+5
+0
+4
+6
+------------------------------------------------------------------------
+t02
+------------------------------------------------------------------------
+Comparing by order: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Total Comparisons:  60,990,725
+
+Comparing by order: MFTCJPWADHKNRUYBEIGLOQSVXZ
+Total Comparisons:  19,115,930
+
+Comparing by order: ETAOINSHRDLUCMPFYWGBVKJXZQ
+Total Comparisons:  17,550,636
+
+------------------------------------------------------------------------
+t03
+------------------------------------------------------------------------
+Letter Count/Percent Table
+
+Total Count: 2,532,309
+
+Letter  Count       %
+---------------------
+    A  206,945   41.36%
+    B  37,497    4.44%
+    C  66,995    9.42%
+    D  108,711   17.01%
+    E  332,097  196.52%
+    F  56,253   10.50%
+    G  48,534    5.75%
+    H  176,430   25.04%
+    I  175,306   59.67%
+    J   5,838    0.69%
+    K  14,420    1.94%
+    L  99,544   17.51%
+    M  62,200    7.37%
+    N  169,897   27.31%
+    O  184,605   81.88%
+    P  43,009    5.30%
+    Q   2,533    0.30%
+    R  148,097   19.34%
+    S  162,029   26.84%
+    T  235,206   96.62%
+    U  68,278   18.19%
+    V  26,252    3.11%
+    W  56,483    8.05%
+    X   4,025    0.48%
+    Y  39,219    8.22%
+    Z   1,906    0.23%
+
+------------------------------------------------------------------------
